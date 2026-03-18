@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,django,nodejs,c,cpp,flask,firebase,linux,nextjs,ts,vite,vscode,wordpress,py,mongodb,github,git,rabbitmq,redis,postgress,mysql,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,django,nodejs,c,cpp,flask,firebase,linux,nextjs,ts,vite,vscode,wordpress,py,mongodb,github,git,rabbitmq,redis,postgresssql,mysql,fastapi" /><br>
     
 </div>
 
