@@ -50,7 +50,7 @@ I build scalable backend systems, optimize APIs, and design architectures that d
 
 ## ⚒️ Tech Stack
 
-**Backend:** Node.js, FastAPI, Django  
+**Backend:** FastAPI, Django  
 **Databases:** PostgreSQL, MySQL, Redis  
 **DevOps:** Docker, Nginx, Linux  
 **Messaging:** RabbitMQ  
