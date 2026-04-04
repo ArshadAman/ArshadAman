@@ -1,64 +1,85 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArshadAman.ArshadAman" />
+<h1 align="center">Hi, I'm Arshad 👋</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Arshad!;" />
-</h1>
+<h3 align="center">Backend Engineer • Systems Thinker • Performance Obsessed</h3>
 
-<h3 align="center">Welcome Visiter</h3>
+<p align="center">
+I build scalable backend systems, optimize APIs, and design architectures that don’t break under load.
+</p>
 
-<br/>
+---
 
-<div align="center">
-    
- </div>
- 
-<div align="center"> 
-  <a href="mailto:arshadaman202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/arshad-aman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://twitter.com/MeArshadAman" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-242d34?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
- 
-</div>
+## 🧠 About Me
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,django,nodejs,c,cpp,flask,firebase,linux,vite,vscode,wordpress,py,github,git,rabbitmq,redis,postgress,mysql,fastapi,docker,nginx" /><br>
-    
-</div>
+- ⚙️ Backend-focused engineer (Node.js, FastAPI, Django)
+- 🚀 Interested in **distributed systems, caching, and system design**
+- 📈 I care about **performance, scalability, and clean architecture**
+- 🔍 Currently exploring **system design patterns & high-scale systems**
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    
-  <img width=390 src="https://streak-stats.demolab.com/?user=ArshadAman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+## 💼 What I Bring
 
+- Designed REST APIs handling **high concurrency**
+- Improved backend performance using **Redis caching & async processing**
+- Built production-ready services with **Docker + Nginx**
+- Experience with **message queues (RabbitMQ)** for scalable workflows
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Scalable API System
+- Built using FastAPI + Redis + PostgreSQL
+- Implemented caching → reduced response time by **~60%**
+- Dockerized deployment with Nginx reverse proxy
+
+---
+
+### 📦 Async Task Processing System
+- Used RabbitMQ for background job handling
+- Improved system throughput & reliability
+- Designed fault-tolerant workflow
+
+---
+
+### 🌐 Full Stack App (React + Node)
+- Built responsive UI + scalable backend
+- Authentication, API optimization, and DB tuning
+
+---
+
+## ⚒️ Tech Stack
+
+**Backend:** Node.js, FastAPI, Django  
+**Databases:** PostgreSQL, MySQL, Redis  
+**DevOps:** Docker, Nginx, Linux  
+**Messaging:** RabbitMQ  
+**Frontend:** React, Tailwind  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshadAman&show_icons=true&theme=react"/>
   <br/>
-<br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ArshadAman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</br>
+  <img src="https://streak-stats.demolab.com/?user=ArshadAman&theme=react"/>
+</p>
 
-<br>
-<img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</br>
+---
 
-</div>
+## 🤝 Let's Connect
 
-<br/><br/>
-<hr/>
+<p align="center">
+  <a href="mailto:arshadaman202@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/arshad-aman/">LinkedIn</a> •
+  <a href="https://twitter.com/MeArshadAman">Twitter</a>
+</p>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+---
 
-<br/>
+## ⚡ Final Note
+
+I’m actively looking to work on **challenging backend problems** and **high-scale systems**.
+
+If you're building something interesting — let's talk.
